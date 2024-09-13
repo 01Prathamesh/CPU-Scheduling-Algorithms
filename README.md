@@ -1,8 +1,9 @@
 # CPU-Scheduling-Algorithms
-CPU Scheduling Algorithms
+
 This repository contains a collection of CPU scheduling algorithms implemented in C++. The project demonstrates a variety of scheduling techniques and provides an interactive command-line interface for users to input processes and choose different scheduling algorithms.
 
-Algorithms Implemented:
+# Algorithms Implemented:
+
 *First-Come, First-Served (FCFS): A basic scheduling algorithm where processes are executed in the order they arrive.
 
 *Shortest Job First (SJF): An algorithm that selects the process with the shortest burst time next.
@@ -23,20 +24,21 @@ Algorithms Implemented:
 
 
 
-Features:
+# Features:
+
 *Interactive User Input: Allows users to specify the number of processes, their arrival times, burst times, and scheduling algorithm preferences.
 
 *Detailed Output: Provides detailed scheduling metrics including start time, completion time, waiting time, and turnaround time for each process, along with average waiting and turnaround times.
 
 
-Usage:
+# Usage:
+
 *Clone the repository: git clone <repository-url>
 Compile the code using a C++ compiler.
 Run the executable and follow the prompts to input process details and select a scheduling algorithm.
 
 
-Contributing:
+# Contributing:
+
 Feel free to contribute by adding new scheduling algorithms, improving the user interface, or enhancing the code structure.
 
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
